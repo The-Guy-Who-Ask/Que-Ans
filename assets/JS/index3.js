@@ -1,0 +1,5 @@
+let MineFirstName = "hussain"
+let MineLastName = "UjjainWala"
+let MineMaritalStatus = "false"
+const MineCountry = "India"
+let MineAge = "16"
